@@ -1,0 +1,9 @@
+/* INSTALL FONT HERE */
+@font-face {
+  font-family: mukadimah;
+  src: url(mukadimah.ttf);
+}
+/* FONT STYLE */
+.mukadimah {
+    font-family: mukadimah;
+}
